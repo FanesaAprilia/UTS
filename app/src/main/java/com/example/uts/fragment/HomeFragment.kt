@@ -145,7 +145,7 @@ class HomeFragment : Fragment() {
             "Akame ga Kill!",
             "Demon Slayer",
             "Naruto: Shippuden",
-            "Slayer",
+            "Demon Slayer",
             "Hunter x Hunter",
             "Naruto: Shippuden",
             "Detectif Conan",
